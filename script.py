@@ -1,4 +1,4 @@
-from cmath import tan
+from math import tan
 from random import random
 from sys import builtin_module_names
 
